@@ -1,14 +1,15 @@
 # Hi there! 👋 I'm KATHIRVEL P
 
-Welcome to my GitHub profile! I'm a passionate data science enthusiast with a keen interest in exploring the vast world of data, machine learning, and analytics. Currently, I'm expanding my expertise by pursuing data science at Guvi.
+Welcome to my GitHub profile! I'm a passionate **Business Development Executive** at **Converse Data Solutions** with a strong enthusiasm for **data science**. I'm actively building expertise in machine learning, data analytics, and business development. My current focus is on leveraging data to drive impactful business solutions.
 
 ---
 
 ### About Me
 
+- 💼 **Currently Working**: Business Development Executive @ Converse Data Solutions
 - 📘 **Studying**: Data Science @ Guvi
-- 👶 **Learning Journey**: I'm constantly building my knowledge in areas like descriptive statistics, data visualization, Power BI, and SQL.
-- 🧩 **Current Focus**: Diving deep into machine learning and enhancing my Power BI skills.
+- 👨‍💻 **Professional Journey**: With a mix of business development and data science, I aim to bridge the gap between business goals and data-driven strategies.
+- 🧩 **Current Focus**: Enhancing my machine learning and Power BI skills to deliver better business insights.
 - 🛠️ **Tools and Technologies**:
   - **Languages**: Python (Pandas, Matplotlib, Seaborn, Plotly)
   - **Data Visualization**: Matplotlib, Seaborn, Plotly, Power BI
@@ -18,17 +19,17 @@ Welcome to my GitHub profile! I'm a passionate data science enthusiast with a ke
 ### My Daily Routine 🌅
 
 - 🕔 **Early Bird**: I start my day at 5 AM
-- 📚 **Study Time**: Dedicate about 12.5 hours daily to learning and honing my skills
-- 🌱 **Mindfulness**: Incorporate meditation into my routine to stay focused
+- 📚 **Study Time**: Dedicate about 12.5 hours daily to learning and refining my skills
+- 🌱 **Mindfulness**: Incorporate meditation into my routine to stay focused and energized for both work and learning
 
 ---
 
 ### Projects
 
-You’ll find some of my projects here as I continue to learn and grow:
-- **Data Science Projects**: Data analysis and visualization using real-world data sets
-- **Power BI Dashboards**: Interactive dashboards showcasing insights on various topics
-- **Machine Learning Experiments**: Beginner-level models and experiments as I journey through ML
+Here are some of the projects I'm working on as part of my journey to combine business development with data science:
+- **Data Science Projects**: Conducting data analysis and building visualizations using real-world data sets
+- **Power BI Dashboards**: Creating interactive business dashboards for insightful decision-making
+- **Machine Learning Models**: Experimenting with beginner-level models to drive business outcomes
 
 ### Connect with Me
 
@@ -37,4 +38,7 @@ You’ll find some of my projects here as I continue to learn and grow:
 
 ---
 
-Thanks for stopping by! I'm always open to collaboration and connecting with fellow data enthusiasts. Feel free to check out my repositories, leave suggestions, or just say hi!
+Thanks for visiting! I'm open to collaboration, networking, and connecting with professionals who share an interest in data science and business development. Feel free to explore my repositories, share feedback, or just say hello!
+
+---
+
